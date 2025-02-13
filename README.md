@@ -1,8 +1,9 @@
 date -13/02/25
 
-This repository provides an introduction to fundamental TypeScript concepts including
+ This repository is a collection of my practice and exploration of fundamental TypeScript concepts including
  strings, numbers, functions, classes, interfaces, arrays, and the any type.
- Each topic is explained with examples to help you understand how to use TypeScript effectively.
+ Each topic is accompanied by examples and hands-on exercises that I've worked on to solidify my understanding of TypeScript.
+ This project serves as a reference for anyone looking to learn or revisit these core concepts.
 
    Table of Contents:-
 
@@ -13,3 +14,5 @@ This repository provides an introduction to fundamental TypeScript concepts incl
   5.  Interfaces
   6.  Arrays
   7.  Any Type
+
+----------------------
