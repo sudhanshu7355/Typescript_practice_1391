@@ -16,3 +16,10 @@ date -13/02/25
   7.  Any Type
 
 ----------------------
+date- 16/02/2025
+
+This repository demonstrates the use of TypeScript's utility types, including
+ Union, Intersection, Readonly, and treating a variable as a function.
+ These concepts are essential for writing robust and type-safe TypeScript code.
+
+----------------------
